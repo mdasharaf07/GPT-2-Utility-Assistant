@@ -2,7 +2,7 @@
 A lightweight, no-API-key-required AI assistant powered by **GPT-2**, built using **Gradio**. Perform text-based tasks like summarization, rewriting, bullet-to-paragraph expansion, and email generation — all offline and for free.
 
 # 📸 Dashboard Preview
-![Sales Dashboard Preview](https://i.postimg.cc/05hWsXMx/Screenshot-2025-07-24-195657.jpg)
+![Sales Dashboard Preview](https://i.postimg.cc/QdV0bycp/Screenshot-2025-07-28-140216.jpg)
 
 # 🎯 Features
 🔒 **No API Key Needed** — 100% offline using HuggingFace Transformers
